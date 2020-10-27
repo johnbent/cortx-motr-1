@@ -1,0 +1,2 @@
+I am creating this file to check if a forked cloned cortx-motr can be shared with others.
+If this is OK, then developers can fork from the Seagate/cortx-motr to his/her own repo and share it with other developers.
